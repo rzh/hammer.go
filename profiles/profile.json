@@ -1,0 +1,3 @@
+{"Weight": 20, "URL":"http://127.0.0.1:9000/json", "Method":"GET", "Body":"", "Type":"REST"}
+{"Weight": 30, "URL":"http://127.0.0.1:9000/html", "Method":"GET", "Body":"", "Type":"WWW"}
+{"Weight": 40, "URL":"http://127.0.0.1:9000/json", "Method":"GET", "Body":"", "Type":"REST"}
