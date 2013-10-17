@@ -24,7 +24,7 @@ go run hammer.go -rps 100 -type ws_session -size 100
 > try `go run hammer.go --help` to get all cmd parameters
 
 
-## To get binary for Hammer:
+## To build Linux Hammer binary from Mac:
 **You have to properly compile/update Go for Linux first**
 
 1. `brew install go --HEAD --cross-compile-common` will resolve all
