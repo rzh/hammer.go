@@ -5,10 +5,10 @@ Hammer.go, a performance testing tool in Go. Rewrote from earlier version.
 
 
 ## Files:
-hammer.go - the client hammer tool
-server.go - a mockup server in Go, to provide HTML and JSON/REST response
-server.py - a mockup server in Python, mainly used to verify authentication works with a different language
-src/oauth/oauth.go - a modified version of Gary Burd's Go OAuth lib, added body hash for OAuth
+- hammer.go - the client hammer tool
+- server.go - a mockup server in Go, to provide HTML and JSON/REST response
+- server.py - a mockup server in Python, mainly used to verify authentication works with a different language
+- src/oauth/oauth.go - a modified version of Gary Burd's Go OAuth lib, added body hash for OAuth
 
 ## Usage:
 1. If you test stateless API, simply define API and its distribution in a JSON file. 
